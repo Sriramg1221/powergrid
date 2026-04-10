@@ -1,5 +1,5 @@
 # Cascading Failures in Power Grids — CLL798 Individual Project
-**Author:** Sriram G | 2023CH70173 | IIT Delhi
+**Author:** Arun mittal | 2021CH70444 | IIT Delhi
 
 ## Quick Start
 ```bash
